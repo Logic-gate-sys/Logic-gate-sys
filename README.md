@@ -32,7 +32,7 @@
 ### 🚧 <strong>Ongoing & Planned Projects</strong>
 <ul>
   <li><strong>SkillChain</strong> (planned): Web platform focused on skill mapping and employability (UN Goal 8)</li>
-  <li><strong>YouTube Automation Toolkit</strong>: In-progress Python automation for content ops</li>
+  <li><strong>YouTube Automation Toolkit</strong>: In-progress Python automation for content operations</li>
   <li><strong>Solidity Contracts</strong>: Building ERC tokens, voting contracts, dApps, etc.</li>
   <li><strong>Rido Web Extension</strong>: Migrating desktop Rido features into a Node.js RESTful API</li>
 </ul>
@@ -60,8 +60,8 @@
 ## 📊 <ins>GitHub Stats</ins>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Logic-gate-sys&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logic-gate-sys&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
@@ -70,8 +70,24 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:daniel.kpatamia15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-kpatamia-a45558246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+
+## 📂 <ins>Popular Repositories</ins>
+
+<div align="center">
+  <a href="https://github.com/Logic-gate-sys/my-python-programs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Logic-gate-sys&repo=my-python-programs&theme=dracula" height="130" />
+  </a>
+  <a href="https://github.com/Logic-gate-sys/Price-prediction-model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Logic-gate-sys&repo=Price-prediction-model&theme=dracula" height="130" />
+  </a>
+  <a href="https://github.com/Logic-gate-sys/Portfolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Logic-gate-sys&repo=Portfolio-Website&theme=dracula" height="130" />
+  </a>
 </div>
 
 ---
