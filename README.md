@@ -6,8 +6,6 @@
   I’m currently learning to perfect my skills in blockchain technology, with a particular focus on full-stack blockchain engineering using <em>Solidity</em>. I’m excited to dive deeper into this field - I really believe blockchain is the future.
 </p>
 
-
-
 ---
 
 ## 🧠 <ins>What I Do</ins>
@@ -28,7 +26,7 @@
 <ul>
   <li><strong>Rido</strong>: Desktop(tkinter gui) ride-hailing app (role-based UI, embedded DB, admin dashboard)</li>
   <li><strong>Event Turnout Predictor</strong>: ML pipeline trained on custom data using scratch-built models</li>
-   <li><strong>African countries game</strong>: A tkinter app that allow all african countries to be traced from a simple map by their names</li>
+  <li><strong>African countries game</strong>: A tkinter app that allow all African countries to be traced from a simple map by their names</li>
 </ul>
 
 ### 🚧 <strong>Ongoing & Planned Projects</strong>
@@ -58,7 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
 </div>
 
-
 ---
 
 ## 📊 <ins>GitHub Stats</ins>
@@ -76,7 +73,7 @@
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:daniel.kpatamia15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daniel-kpatamia-a45558246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.credly.com/earner/dashboard"><img src="https://img.shields.io/badge/Credly-1E5D88?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/daniel-kpatamia"><img src="https://img.shields.io/badge/Credly-1E5D88?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </div>
 
 <br clear="both">
@@ -84,4 +81,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
