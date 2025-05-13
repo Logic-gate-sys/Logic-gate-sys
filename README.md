@@ -1,9 +1,10 @@
 <h2 align="center">Hi 👋! I'm <strong>Daniel Kpatamia</strong></h2>
-<h3 align="center"> Full-Stack Developer | 🧠 ML Enthusiast |  🛠️ Blockchain Passionate</h3>
+<h3 align="center">Full-Stack Developer | 🧠 ML Enthusiast | 🛠️ Blockchain Passionate</h3>
 
 <p align="center">
-  My primary focus is full-stack development, and I’m constantly building new applications. While I don't dislike machine learning, it doesn't capture my interest as much as blockchain does. 
-  I’m currently learning to perfect my skills in blockchain technology, with a particular focus on full-stack blockchain engineering using <em>Solidity</em>. I’m excited to dive deeper into this field - I really believe blockchain is the future.
+  I'm a passionate Full-Stack Developer with a keen interest in blockchain technology. 
+  While I have experience in machine learning, my primary focus is on building scalable web applications 
+  and exploring the potentials of decentralized systems.
 </p>
 
 ---
@@ -24,17 +25,17 @@
 
 ### ✅ <strong>Completed Projects</strong>
 <ul>
-  <li><strong>Rido</strong>: Desktop(tkinter gui) ride-hailing app (role-based UI, embedded DB, admin dashboard)</li>
-  <li><strong>Event Turnout Predictor</strong>: ML pipeline trained on custom data using scratch-built models</li>
-  <li><strong>African countries game</strong>: A tkinter app that allow all African countries to be traced from a simple map by their names</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Rido_app">Rido</a></strong>: Desktop (Tkinter GUI) ride-hailing app (role-based UI, embedded DB, admin dashboard)</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/event-turnout-prediction">Event Turnout Predictor</a></strong>: ML pipeline trained on custom data using scratch-built models</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/african-countries-game">African Countries Game</a></strong>: Tkinter app that allows all African countries to be traced from a map by name</li>
 </ul>
 
 ### 🚧 <strong>Ongoing & Planned Projects</strong>
 <ul>
-  <li><strong>SkillChain</strong> (planned): Web platform focused on skill mapping and employability (UN Goal 8)</li>
-  <li><strong>YouTube Automation Toolkit</strong>: In-progress Python automation for content operations</li>
-  <li><strong>Solidity Contracts</strong>: Building ERC tokens, voting contracts, dApps, etc.</li>
-  <li><strong>Rido Web Extension</strong>: Migrating desktop Rido features into a Node.js RESTful API</li>
+  <li><strong>SkillChain</strong> (Planned): Web platform for skill mapping & employability (UN Goal 8)</li>
+  <li><strong>YouTube Automation Toolkit</strong>: In-progress Python automation for content ops</li>
+  <li><strong>Solidity Contracts</strong>: ERC tokens, voting contracts, dApps, etc.</li>
+  <li><strong>Rido Web Extension</strong>: Migrating desktop features to Node.js RESTful API</li>
 </ul>
 
 ---
@@ -53,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" height="40" alt="Tailwind CSS" />
 </div>
 
 ---
@@ -61,13 +62,13 @@
 ## 📊 <ins>GitHub Stats</ins>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Logic-gate-sys&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logic-gate-sys&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Logic-gate-sys&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logic-gate-sys&layout=compact&langs_count=10&theme=dracula" height="150" />
 </div>
 
 ---
 
-# 🌐 <ins>Let's Connect</ins>
+## 🌐 <ins>Let's Connect</ins>
 
 <div align="center">
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -76,7 +77,7 @@
   <a href="https://www.credly.com/users/daniel-kpatamia"><img src="https://img.shields.io/badge/Credly-1E5D88?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </div>
 
-<br clear="both">
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
