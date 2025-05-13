@@ -23,7 +23,7 @@
 
 ## 🛠️ <ins>Applications</ins>
 
-### ✅ <strong>Completed Projects</strong>
+### 💼 <strong>Completed Projects</strong>
 <ul>
   <li><strong><a href="https://github.com/Logic-gate-sys/Rido_app">Rido</a></strong>: Desktop (Tkinter GUI) ride-hailing app (role-based UI, embedded DB, admin dashboard)</li>
   <li><strong><a href="https://github.com/Logic-gate-sys/event-turnout-prediction">Event Turnout Predictor</a></strong>: ML pipeline trained on custom data using scratch-built models</li>
