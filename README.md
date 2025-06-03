@@ -25,17 +25,31 @@
 
 ### 💼 <strong>Completed Projects</strong>
 <ul>
-  <li><strong><a href="https://github.com/Logic-gate-sys/Rido_app">Rido</a></strong>: Desktop (Tkinter GUI) ride-hailing app (role-based UI, embedded DB, admin dashboard)</li>
-  <li><strong><a href="https://github.com/Logic-gate-sys/event-turnout-prediction">Event Turnout Predictor</a></strong>: ML pipeline trained on custom data using scratch-built models</li>
-  <li><strong><a href="https://github.com/Logic-gate-sys/african-countries-game">African Countries Game</a></strong>: Tkinter app that allows all African countries to be traced from a map by name</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Rido_app">Rido_app</a></strong>: Desktop (Tkinter GUI) ride-hailing app (role-based UI, embedded DB, admin dashboard)</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Ashesi-event-turnout-predictor">Ashesi-event-turnout-predictor</a></strong>: ML pipeline trained on custom data using scratch-built models</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/african-countries-game">African-countries-game</a></strong>: Tkinter app to guess location and names of African countries</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/css-exercises">css-exercises</a></strong>: Fork of TheOdinProject CSS exercises completed</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/javascript-exercises">javascript-exercises</a></strong>: Fork of TheOdinProject JavaScript exercises</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/DSA-In-Action">DSA-In-Action</a></strong>: Java projects on data structures and algorithms</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Logic-gate-sys">Logic-gate-sys</a></strong>: My profile repository</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Porfolio-Website">Porfolio-Website</a></strong>: Personal portfolio site built with JavaScript</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/My-Resume">My-Resume</a></strong>: My resume in HTML format</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Price-prediction-model">Price-prediction-model</a></strong>: Price prediction ML model</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/python_singleton_projects">python_singleton_projects</a></strong>: Python singleton pattern projects</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Dann-sour">Dann-sour</a></strong>: TypeScript projects</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/Deep_Learning-MIT">Deep_Learning-MIT</a></strong>: MIT Deep Learning course materials</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/introtodeeplearning">introtodeeplearning</a></strong>: MIT course notebooks (forked)</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/git_test">git_test</a></strong>: Test repo for The Odin Project</li>
+  <li><strong><a href="https://github.com/Logic-gate-sys/my-python-programs">my-python-programs</a></strong>: Collection of Python projects I built</li>
 </ul>
 
-### 🚧 <strong>Ongoing & Planned Projects</strong>
+### 🚧 <strong>Private / In-Progress Projects</strong>
 <ul>
-  <li><strong>SkillChain</strong> (Planned): Web platform for skill mapping & employability (UN Goal 8)</li>
-  <li><strong>YouTube Automation Toolkit</strong>: In-progress Python automation for content ops</li>
-  <li><strong>Solidity Contracts</strong>: ERC tokens, voting contracts, dApps, etc.</li>
-  <li><strong>Rido Web Extension</strong>: Migrating desktop features to Node.js RESTful API</li>
+  <li>react-course: React learning course (private)</li>
+  <li>Fullstack-web3-crashcourse: Web3 crash course (private)</li>
+  <li>African-countries-game: Python Tkinter geography game (private)</li>
+  <li>Attendance-App: JavaFX student attendance management (private)</li>
+  <li>Simple-Calculator: Java CLI calculator (private)</li>
 </ul>
 
 ---
