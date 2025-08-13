@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm <strong>Daniel Kpatamia</strong></h2>
+<h2 align="center">👋 Hi, I'm <strong>Daniel Kpatamia (a.k.a Logik_gate)</strong></h2>
 <h3 align="center">Full-Stack Web3 Developer | Computer Science Junior @ Ashesi University, Ghana | 🧠 Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 💻 <ins>Tech Stack</ins>
 
-<div align="center">
+<div align="center" style={"display":"flex"; "flex-direction":"column"; "gap":"15px";}>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" />
