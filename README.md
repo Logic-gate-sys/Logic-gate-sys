@@ -5,7 +5,7 @@
   I’m a dedicated Web3 Developer passionate about designing and building scalable, user-focused Web3 & Backend solutions.  
   I pride myself on continuous dedication and learning. While building all the time is not my hobby, I feel sick when I 
   don't touch the terminal for a while. I'm almost  a friend with my WSL2 terminal ( I talk with it more often than anyone else) 
-  With the new emergence of agentic AI, I am constantly exploring and building stuff with OpenAI, Google SDK
+  With the emergence of agentic AI, I am constantly exploring and building with OpenAI and the Google SDK.
   I happen to think 'Typescript is the greatest programming language' and React is unbeatable
 </p>
 
