@@ -1,10 +1,12 @@
 <h2 align="center">👋 Hi, I'm <strong>Daniel Kpatamia (a.k.a Logik_gate)</strong></h2>
-<h3 align="center">Full-Stack Web3 Developer | Computer Science Junior @ Ashesi University, Ghana | 🧠 Machine Learning Enthusiast</h3>
+<h3 align="center"> Web3 Developer & Computer Science Junior @ Ashesi University </h3>
 
 <p align="center">
-  I’m a dedicated Full-Stack Developer passionate about designing and building scalable, user-focused web and blockchain applications.  
-  With hands-on experience in decentralized systems, smart contract development, and backend engineering, I aim to create impactful solutions that bridge Web2 and Web3.  
-  While I have explored machine learning concepts, my primary focus is leveraging blockchain to solve real-world problems.
+  I’m a dedicated Web3 Developer passionate about designing and building scalable, user-focused Web3 & Backend solutions.  
+  I pride myself on continuous dedication and learning. While building all the time is not my hobby, I feel sick when I 
+  don't touch the terminal for a while. I'm almost  a friend with my WSL2 terminal ( I talk with it more often than anyone else) 
+  With the new emergence of agentic AI, I am constantly exploring and building stuff with OpenAI, Google SDK
+  I happen to think 'Typescript is the greatest programming language' and React is unbeatable
 </p>
 
 ---
@@ -12,10 +14,10 @@
 ## 🧠 <ins>What I Do</ins>
 
 <ul>
-  <li>🌐 <strong>Full-Stack Web3 Engineering</strong> — PERNSF stack: PostgreSQL, Express, React, Node.js, Solidity, Foundry, Chainlink Oracles</li>
-  <li>🤖 <strong>Machine Learning</strong> — Implemented Linear/Logistic Regression, KNN, and basic Neural Networks from scratch</li>
-  <li>🔐 <strong>API & Database Architecture</strong> — Designed secure, modular Express APIs and optimized relational database schemas</li>
-  <li>⛓️ <strong>Blockchain Development (EVM)</strong> — Writing production-ready smart contracts, building dApps, and experimenting with DeFi protocols</li>
+  <li>🌐 <strong> Web3 </strong> PostgreSQL, Express, React/Nextjs, Node.js, Solidity, Foundry, Chainlink Oracles</li>
+  <li>🤖 <strong> AI Agents </strong> — Implement custom cli agents with Evals and desired toolsets </li>
+  <li>🔐 <strong> Backend & API Design </strong> — Designed secure, modular Express Node/Express REST/GRAPHQL backend applications providing schema validation & professional security practices</li>
+  <li>⛓️ <strong> Smart Contract (EVM)</strong> — Writing production-ready smart contracts, building dApps, and experimenting with DeFi protocols</li>
 </ul>
 
 ---
