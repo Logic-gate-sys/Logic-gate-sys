@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm <strong>Daniel Kpatamia (a.k.a Logik_gate)</strong></h1>
+  <h1>👋 Hi,I'm <strong>Daniel Kpatamia</strong></h1> 
   <h3>Web3 Developer & Computer Science Junior @ Ashesi University</h3>
 
   <p style="max-width: 800px; line-height: 1.6;">
