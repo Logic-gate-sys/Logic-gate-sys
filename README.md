@@ -12,9 +12,10 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/daniel-kpatamia-a455582
 * **AI Agents & Automation:** Implementing production-grade custom agents engineered with robust evaluation frameworks (Evals) and tailored toolsets for real-world infrastructure.
   
 ### Technical Stack
-* **Languages & Core Backend:** TypeScript, Go, Node.js, Express, C++, Python, Java
-* **Web3 & Databases:** Solidity, Foundry, PostgreSQL, MySQL
-* **Frontend & UI:** React, React Native, Tailwind CSS, HTML5, CSS3
+* **Languages & Core Backend:** TypeScript, JavaScript, Go, Node.js, Express, Python
+* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Frontend & UI:** React/React-Native, Tailwind CSS, HTML5, CSS3
+
 
 ### Projects & Contributions
 If you would like to collaborate on backend service(s), Web3 protocols, or AI agent development, consider reaching out via [email](mailto:danielkpatamia15@gmail.com) or connecting on [LinkedIn](https://www.linkedin.com/in/daniel-kpatamia-a45558246).
