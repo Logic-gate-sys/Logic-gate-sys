@@ -2,7 +2,7 @@ Hi there 👋 I'm **ll_gate**, an obsessed builder specializing in Backend Syste
 
 I engineer clean APIs, solid data models, and the interfaces that make them usable. My core foundation relies on **TypeScript / Node.js** and **Go** for high-performance services, alongside **React** and **React Native** for frontend and mobile platforms. Beyond traditional full-stack development, I actively tinker with agentic AI—developing custom autonomous CLI agents engineered with advanced tool use and robust evaluation frameworks (Evals), with a strict focus on how autonomous systems integrate into real-world production infrastructure.
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/daniel-kpatamia-a45558246) for a full description of my work experience, education, and credentials, or check out my verified achievements on [Credly](https://www.credly.com/users/daniel-kpatamia). You can get in touch with me directly by email at [daniel.kpatamia15@gmail.com](mailto:danielkpatamia15@gmail.com).
+Find me on [LinkedIn](https://www.linkedin.com/in/daniel-kpatamia-a45558246) for a full description of my work experience, education, and credentials, or check out my verified achievements on [Credly](https://www.credly.com/users/daniel-kpatamia). You can get in touch with me directly by email at [daniel.kpatamia15@gmail.com](mailto:danielkpatamia15@gmail.com).
 
 ### Core Focus & Expertise
 
