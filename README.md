@@ -9,7 +9,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/daniel-kpatamia-a455582
 ### Core Focus & Expertise
 * **Backend Services & API Design:** Architecting secure, modular REST and GraphQL baselines using Node.js/Express and Go with strict schema validation and industry-standard security practices.
 * **Frontend Architecture:** Engineering responsive user interfaces and mobile applications using React and React Native, focusing on seamless API integration, performance optimization, and clean state management.
-* **AI Agents & Automation:** Implementing production-grade custom agents engineered with robust evaluation frameworks (Evals) and tailored toolsets for real-world infrastructure.
+* **AI Agents & Automation:** Implementing production-grade custom agents engineered with robust harness,context engineering, evaluation frameworks (Evals) and tailored toolsets for real-world infrastructure.
   
 ### Technical Stack
 * **Languages & Core Backend:** TypeScript, JavaScript, Go, Node.js, Express, Python
