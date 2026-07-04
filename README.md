@@ -12,9 +12,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/daniel-kpatamia-a45558246) for
   
 ### Technical Stack
 
-* **Languages & Core Backend:** TypeScript, JavaScript, Go, Node.js, Express, Python
-* **Databases:** PostgreSQL, MySQL, MongoDB
-* **Frontend & UI:** React/React-Native, Tailwind CSS, HTML5, CSS3
+* **Languages & Core Backend:** TypeScript, Go, NodeJS/Express, Python
+* **Databases:** PostgreSQL, MongoDB
+* **Frontend & UI:** React, Tailwind CSS, HTML5, CSS3
 
 
 ### Projects & Contributions
