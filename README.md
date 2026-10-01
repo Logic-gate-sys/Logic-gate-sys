@@ -1,4 +1,6 @@
-Hi there 👋 I'm **ll_gate**, an obsessed builder specializing in Software Systems, Platform Architecture, and Full-Stack Engineering.
+Hi there 👋 
+
+I'm **ll_gate**, an obsessed builder specializing in Software Systems, Platform Architecture, and Full-Stack Engineering.
 
 I engineer clean APIs, solid data models, and the interfaces that make them usable. My core foundation relies on **TypeScript / Node.js**, **Python** and **Go** for high-performance microservices, alongside **React** & **NextJs** with **React-Native(Beginner)** for frontend and mobile platforms. Beyond traditional full-stack development, I actively tinker with AI agentic workflows engineered with advanced tools design, tools use and robust evaluation frameworks (Evals), with a strict focus on how autonomous systems integrate into real-world production infrastructure- Deterministic workflows.
 
