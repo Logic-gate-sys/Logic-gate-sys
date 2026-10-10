@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
-<h3 align="center"> Aspiring Software Engineer · CS Student · Builder </h3>
+<h3 align="center"> Aspiring Backend Software Engineer · CS Student · Builder </h3>
 
 <p align="center">
-I build clean APIs, solid data models, and the interfaces that make them usable —
-and I'm deep into how AI agents can run reliably in real production systems.
+I build clean APIs, solid data models, and the architectures that make them usable and clean —
+and I'm deep into building AI Agents in TypeScript.
 </p>
 
 <p align="center">
@@ -20,21 +20,20 @@ and I'm deep into how AI agents can run reliably in real production systems.
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,python,react,nextjs,tailwind,postgres,mongodb,html,css,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,express,python,postgres,mysql,mongodb,git,github,githubactions,docker" />
 </p>
 
 ### What I Focus On
 
-- **Backend & APIs** — secure, modular REST/gRPC services in Node.js/Express and Go, with strict schema validation
-- **Frontend** — responsive apps in React, Next.js, and React Native, built around clean state management and real API integration
-- **AI Agents & Automation** — production-grade agents with proper harnesses, RAG, context engineering, tool design, and evals — not just prototypes
+- **Backend & APIs** — Clean,secure & modular APIs/services in TypeScript/Express and Go, with strict permission Engines-RBAC,ABAC etc
+- **AI Agentic Workflows** — Production-grade agents with robust harness, RAG, context engineering, tool design, and evals.
 
 > Currently all-in on web2 software engineering, after a deep detour through blockchain and smart contracts. That detour taught me more about systems design than I expected.
 
 ###  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=logic-gate-sys&show_icons=true&theme=monokai&hide_border=true" />
+  <img width="340" height="180" src="https://github-readme-stats.vercel.app/api?username=logic-gate-sys&show_icons=true&theme=monokai&hide_border=true" />
 </p>
 
 <p align="center">
